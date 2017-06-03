@@ -1,0 +1,22 @@
+{
+  "name": "debug",
+  "version": "0.1.0",
+  "description": "Debug module to use with MagicMirror",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QNimbus/MMM-Debug.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Debug"
+  ],
+  "author": "B. van Wetten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QNimbus/MMM-Debug/issues"
+  },
+  "homepage": "https://github.com/QNimbus/MMM-Debug#readme"
+}
